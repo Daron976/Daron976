@@ -28,7 +28,7 @@ Hello again, I'm Daron, a Full Stack Software Developer in training at Microvers
 <em>Don't memorize something you can look up</em> 😄
 </p>
 
-## Abilities 🦾
+## <h1 align="center">Abilities 🦾</h1>
 
 <table align="center">
   <tbody>
@@ -83,7 +83,7 @@ Hello again, I'm Daron, a Full Stack Software Developer in training at Microvers
 
 ## Get in touch
 
- <div id="badges">
+ <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/daron-wiafe-1b88141a6/">
     <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
