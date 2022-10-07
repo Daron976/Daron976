@@ -26,6 +26,7 @@ Hello again, I'm Daron, a Full Stack Software Developer in training at Microvers
 <em>Don't memorize something you can look up</em> 😄
 </p>
 <br>
+
 ### <h1 align="center">Abilities 🦾</h1>
 <br>
 <table align="center">
