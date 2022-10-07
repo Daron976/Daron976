@@ -16,16 +16,19 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Daron976/Daron976/main/daron.gif"/>
 </div>
 
-## A Little About Me
-
+## A Little About Me 
+<br>
+<br>
 <p align="center">
 Hello again, I'm Daron, a Full Stack Software Developer in training at Microverse, developing my skills while working with student from every corner of the globe which is really amazing is you ask me. Take a look at my pinned repositories to see what I've built.
 </p>
+<br>
+<br>
 <p align="center">
-  
+<em>Don't memorize something you can look up</em> 😄
 </p>
 
-## Abilities
+## Abilities 🦾
 
 <table align="center">
   <tbody>
