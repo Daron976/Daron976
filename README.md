@@ -14,19 +14,19 @@ Here are some ideas to get you started:
 -->
 <div align="center">
   <img src="https://raw.githubusercontent.com/Daron976/Daron976/main/daron.gif"/>
-  <div id="badges">
-  <a href="https://www.linkedin.com/in/hayet-f-5b4347247/L">
-    <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://twitter.com/hayet_fe">
-    <img src="https://img.shields.io/badge/Twitter-blueviolet?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
 </div>
+
+<p align="center">
+Hello again, I'm Daron, a Full Stack Software Developer in training at Microverse, developing my skills while working with student from every corner of the globe which is really amazing is you ask me. Take a look at my pinned repositories to see what I've built.
+</p>
+<p align="center">
+Fascinated about infinite space. Occupy Mars! :rocket:
+</p>
 
 
 <table>
   <tbody>
-    <tr valign="top">
+    <tr valign="center">
       <td width="25%" align="center">
 	      <span><strong>Python</strong></span><br><br><br>
         <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
@@ -44,7 +44,7 @@ Here are some ideas to get you started:
         <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
       </td>
      </tr>
-    <tr valign="top">
+    <tr valign="center">
       <td width="25%" align="center">
         <span><strong>CSS</strong></span><br><br><br>
         <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
