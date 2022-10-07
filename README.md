@@ -16,15 +16,16 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Daron976/Daron976/main/daron.gif"/>
 </div>
 
-<hr>
+## A Little About Me
 
 <p align="center">
 Hello again, I'm Daron, a Full Stack Software Developer in training at Microverse, developing my skills while working with student from every corner of the globe which is really amazing is you ask me. Take a look at my pinned repositories to see what I've built.
 </p>
 <p align="center">
-Fascinated about infinite space. Occupy Mars! :rocket:
+  
 </p>
 
+## Abilities
 
 <table align="center">
   <tbody>
@@ -57,20 +58,20 @@ Fascinated about infinite space. Occupy Mars! :rocket:
  <table align="center">
    <tbody>
    <tr valign="center">
-      <td width="50px" align="center">
-        <span><strong>Sass</strong></span><br>
+      <td width="120px" align="center">
+        <span><strong>Sass</strong></span><br><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/s/90/sass.svg">
       </td>
-      <td width="50px" align="center">
-        <span><strong>Vs Code</strong></span><br>
+      <td width="120px" align="center">
+        <span><strong>Vs Code</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-      <td width="50px" align="center">
-        <span><strong>JavaScript</strong></span><br>
+      <td width="120px" align="center">
+        <span><strong>JavaScript</strong></span><br><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/j/33/javascript.svg">
       </td>
-      <td width="50px" align="center">
-        <span><strong>Webpack</strong></span><br>
+      <td width="120px" align="center">
+        <span><strong>Webpack</strong></span><br><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/w/31/webpack.svg">
       </td>
     </tr>
