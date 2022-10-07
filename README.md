@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<div align="center">
+	<br>
+	<img src="https://www.canva.com/design/DAFOS7Efno8/view" width="200" height="200">
+</div>
 <!--
 **Daron976/Daron976** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
