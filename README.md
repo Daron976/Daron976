@@ -29,24 +29,24 @@ Fascinated about infinite space. Occupy Mars! :rocket:
 <table align="center">
   <tbody>
     <tr valign="center">
-      <td width="100px" align="center">
-        <span><strong>CSS</strong></span><br>
+      <td width="120px" align="center">
+        <span><strong>CSS</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="100px" align="center">
-        <span><strong>Html 5</strong></span><br>
+      <td width="120px" align="center">
+        <span><strong>Html 5</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="100px" align="center">
-        <span><strong>Git Flow</strong></span><br>
+      <td width="120px" align="center">
+        <span><strong>Git Flow</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="100px" align="center">
-        <span><strong>Git</strong></span><br>
+      <td width="120px" align="center">
+        <span><strong>Git</strong></span><br><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/g/69/github-icon.svg">
       </td>
-      <td width="100px" align="center">
-        <span><strong>Boostrap</strong></span><br>
+      <td width="120px" align="center">
+        <span><strong>Boostrap</strong></span><br><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">
       </td>
    </tr>
