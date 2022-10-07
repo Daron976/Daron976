@@ -29,7 +29,7 @@ Hello again, I'm Daron, a Full Stack Software Developer in training at Microvers
 </p>
 
 ### <h2 align="center">Abilities 🦾</h2>
-
+<br>
 <table align="center">
   <tbody>
     <tr valign="center">
@@ -81,6 +81,7 @@ Hello again, I'm Daron, a Full Stack Software Developer in training at Microvers
 </table>
 <br>
 <br>
+
 ### <h3 align="center">Get in touch</h3>
 
  <div id="badges" align="center">
