@@ -49,6 +49,7 @@ Fascinated about infinite space. Occupy Mars! :rocket:
         <span><strong>Boostrap</strong></span><br><br><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">
       </td>
+      <br>
       <td width="25%" align="center">
         <span><strong>Sass</strong></span><br><br><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/s/90/sass.svg">
