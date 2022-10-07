@@ -16,6 +16,8 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Daron976/Daron976/main/daron.gif"/>
 </div>
 
+<hr>
+
 <p align="center">
 Hello again, I'm Daron, a Full Stack Software Developer in training at Microverse, developing my skills while working with student from every corner of the globe which is really amazing is you ask me. Take a look at my pinned repositories to see what I've built.
 </p>
@@ -26,24 +28,6 @@ Fascinated about infinite space. Occupy Mars! :rocket:
 
 <table>
   <tbody>
-    <tr valign="center">
-      <td width="25%" align="center">
-	      <span><strong>Python</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1200px-Python-logo-notext.svg.png">
-      </td>
-      <td width="25%" align="center">
-	      <span><strong>AWS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/aws.svg">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Java</strong></span><br><br><br>
-        <img height="100px" src="https://upload.wikimedia.org/wikipedia/en/thumb/3/30/Java_programming_language_logo.svg/1200px-Java_programming_language_logo.svg.png">
-      </td>
-      <td width="25%" align="center">
-        <span><strong>Django</strong></span><br><br><br>
-        <img height="64px" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcRlHpEsRq4pIo4vTLAn24qGNwG41dFdXLJwsQ&usqp=CAU">
-      </td>
-     </tr>
     <tr valign="center">
       <td width="25%" align="center">
         <span><strong>CSS</strong></span><br><br><br>
