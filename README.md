@@ -29,24 +29,24 @@ Fascinated about infinite space. Occupy Mars! :rocket:
 <table align="center">
   <tbody>
     <tr valign="center">
-      <td width="25%" align="center">
-        <span><strong>CSS</strong></span><br><br><br>
+      <td width="50px" align="center">
+        <span><strong>CSS</strong></span><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>Html 5</strong></span><br><br><br>
+      <td width="50px" align="center">
+        <span><strong>Html 5</strong></span><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>Git Flow</strong></span><br><br><br>
+      <td width="50px" align="center">
+        <span><strong>Git Flow</strong></span><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>Git</strong></span><br><br><br>
+      <td width="50px" align="center">
+        <span><strong>Git</strong></span><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/g/69/github-icon.svg">
       </td>
-      <td width="25%" align="center">
-        <span><strong>Boostrap</strong></span><br><br><br>
+      <td width="50px" align="center">
+        <span><strong>Boostrap</strong></span><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">
       </td>
    </tr>
@@ -57,20 +57,20 @@ Fascinated about infinite space. Occupy Mars! :rocket:
  <table align="center">
    <tbody>
    <tr valign="center">
-      <td width="20%" align="center">
-        <span><strong>Sass</strong></span><br><br><br>
+      <td width="50px" align="center">
+        <span><strong>Sass</strong></span><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/s/90/sass.svg">
       </td>
-      <td width="20%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
+      <td width="50px" align="center">
+        <span><strong>Vs Code</strong></span><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
-      <td width="20%" align="center">
-        <span><strong>JavaScript</strong></span><br><br><br>
+      <td width="50px" align="center">
+        <span><strong>JavaScript</strong></span><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/j/33/javascript.svg">
       </td>
-      <td width="20%" align="center">
-        <span><strong>Webpack</strong></span><br><br><br>
+      <td width="50px" align="center">
+        <span><strong>Webpack</strong></span><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/w/31/webpack.svg">
       </td>
     </tr>
