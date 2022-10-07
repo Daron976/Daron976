@@ -16,7 +16,7 @@ Here are some ideas to get you started:
   <img src="https://raw.githubusercontent.com/Daron976/Daron976/main/daron.gif"/>
 </div>
 
-## A Little About Me 
+### <h1 align="center">A Little About Me </h1>
 <br>
 <br>
 <p align="center">
@@ -28,7 +28,7 @@ Hello again, I'm Daron, a Full Stack Software Developer in training at Microvers
 <em>Don't memorize something you can look up</em> 😄
 </p>
 
-## <h1 align="center">Abilities 🦾</h1>
+### <h1 align="center">Abilities 🦾</h1>
 
 <table align="center">
   <tbody>
