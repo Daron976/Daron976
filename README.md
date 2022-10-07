@@ -58,11 +58,11 @@ Fascinated about infinite space. Occupy Mars! :rocket:
         <img height="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
+        <span><strong>JavaScript</strong></span><br><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
       <td width="25%" align="center">
-        <span><strong>Vs Code</strong></span><br><br><br>
+        <span><strong>Webpack</strong></span><br><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
