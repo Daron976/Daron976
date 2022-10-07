@@ -80,3 +80,16 @@ Hello again, I'm Daron, a Full Stack Software Developer in training at Microvers
     </tr>
   </tbody>
 </table>
+
+## Get in touch
+
+ <div id="badges">
+  <a href="https://www.linkedin.com/in/daron-wiafe-1b88141a6/">
+    <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://twitter.com/WiafeDaron">
+    <img src="https://img.shields.io/badge/Twitter-blueviolet?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+</div>
+
+
