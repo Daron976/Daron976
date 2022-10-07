@@ -57,7 +57,6 @@ Hello again, I'm Daron, a Full Stack Software Developer in training at Microvers
   </tbody>
  </table>
  <br>
- <br>
  <table align="center">
    <tbody>
    <tr valign="center">
@@ -80,7 +79,8 @@ Hello again, I'm Daron, a Full Stack Software Developer in training at Microvers
     </tr>
   </tbody>
 </table>
-
+<br>
+<br>
 ### <h3 align="center">Get in touch</h3>
 
  <div id="badges" align="center">
