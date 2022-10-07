@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <p align="center">
-Hello again, I'm Daron, a Full Stack Software Developer in training at Microverse, developing my skills while working with student from every corner of the globe which is really amazing is you ask me. Take a look at my pinned repositories to see what I've built.
+Hello again, I'm Daron, a Full Stack Software Developer in training at Microverse, developing my skills to land a job as a developer, while working with student from every corner of the globe which is really amazing is you ask me. Take a look at my pinned repositories to see what I've built.
 </p>
 <br>
 <p align="center">
