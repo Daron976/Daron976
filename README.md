@@ -26,7 +26,7 @@ Fascinated about infinite space. Occupy Mars! :rocket:
 </p>
 
 
-<table>
+<table align="center">
   <tbody>
     <tr valign="center">
       <td width="25%" align="center">
