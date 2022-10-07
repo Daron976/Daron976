@@ -50,8 +50,11 @@ Fascinated about infinite space. Occupy Mars! :rocket:
         <img height="50px" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">
       </td>
    </tr>
-   </tbody>
-    <br>
+  </tbody>
+ </table>
+ <br>
+ <br>
+ <table align="center">
    <tbody>
    <tr valign="center">
       <td width="20%" align="center">
