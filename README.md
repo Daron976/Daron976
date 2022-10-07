@@ -50,6 +50,9 @@ Fascinated about infinite space. Occupy Mars! :rocket:
         <img height="50px" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">
       </td>
    </tr>
+   </tbody>
+    <br>
+   <tbody>
    <tr valign="center">
       <td width="20%" align="center">
         <span><strong>Sass</strong></span><br><br><br>
@@ -68,6 +71,5 @@ Fascinated about infinite space. Occupy Mars! :rocket:
         <img height="50px" src="https://cdn.cdnlogo.com/logos/w/31/webpack.svg">
       </td>
     </tr>
-
   </tbody>
 </table>
