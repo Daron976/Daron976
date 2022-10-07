@@ -31,19 +31,19 @@ Fascinated about infinite space. Occupy Mars! :rocket:
     <tr valign="center">
       <td width="25%" align="center">
         <span><strong>CSS</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Html 5</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Git</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="25%" align="center">
         <span><strong>Vs Code</strong></span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
       </td>
     </tr>
 
