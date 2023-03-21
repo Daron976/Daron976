@@ -33,24 +33,32 @@ Hello again, I'm Daron, a Full Stack Software Developer in training at Microvers
   <tbody>
     <tr valign="center">
       <td width="120px" align="center">
-        <span><strong>CSS</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/css-3.svg">
+        <span><strong>Rails</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/rails.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>Ruby</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/ruby.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>React</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/react.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>Redux</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/redux.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>JavaScript</strong></span><br><br>
+        <img height="50px" src="https://cdn.cdnlogo.com/logos/j/33/javascript.svg">
       </td>
       <td width="120px" align="center">
         <span><strong>Html 5</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>Git Flow</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-      </td>
-      <td width="120px" align="center">
-        <span><strong>Git</strong></span><br><br>
-        <img height="50px" src="https://cdn.cdnlogo.com/logos/g/69/github-icon.svg">
-      </td>
-      <td width="120px" align="center">
-        <span><strong>Boostrap</strong></span><br><br>
-        <img height="50px" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">
+        <span><strong>CSS</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
    </tr>
   </tbody>
@@ -60,20 +68,36 @@ Hello again, I'm Daron, a Full Stack Software Developer in training at Microvers
    <tbody>
    <tr valign="center">
       <td width="120px" align="center">
+        <span><strong>PosgreSQL</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/postgresql.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>MySQL</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/mysql.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>Boostrap</strong></span><br><br>
+        <img height="50px" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">
+      </td>
+      <td width="120px" align="center">
         <span><strong>Sass</strong></span><br><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/s/90/sass.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>Vs Code</strong></span><br><br>
-        <img height="50px" src="https://cdn.svgporn.com/logos/visual-studio-code.svg">
-      </td>
-      <td width="120px" align="center">
-        <span><strong>JavaScript</strong></span><br><br>
-        <img height="50px" src="https://cdn.cdnlogo.com/logos/j/33/javascript.svg">
+        <span><strong>Git</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="120px" align="center">
         <span><strong>Webpack</strong></span><br><br>
-        <img height="50px" src="https://cdn.cdnlogo.com/logos/w/31/webpack.svg">
+        <img height="50px" src="https://cdn.svgporn.com/logos/webpack.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>Jest</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/jest.svg">
+      </td>
+      <td width="120px" align="center">
+        <span><strong>React Testing Library</strong></span><br><br>
+        <img height="50px" src="https://cdn.svgporn.com/logos/testing-library.svg">
       </td>
     </tr>
   </tbody>
@@ -85,10 +109,10 @@ Hello again, I'm Daron, a Full Stack Software Developer in training at Microvers
 
  <div id="badges" align="center">
   <a href="https://www.linkedin.com/in/daron-wiafe-1b88141a6/">
-    <img src="https://img.shields.io/badge/LinkedIn-blueviolet?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img height="50px" src="https://cdn.svgporn.com/logos/linkedin-icon.svg" alt="LinkedIn logo"/>
   </a>
   <a href="https://twitter.com/WiafeDaron">
-    <img src="https://img.shields.io/badge/Twitter-blueviolet?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+    <img height="50px" src="https://cdn.svgporn.com/logos/twitter.svg" alt="Twitter logo"/>
   </a>
 </div>
 
