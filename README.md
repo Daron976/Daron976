@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Daron976/Daron976/main/daron.gif"/>
+  <img src="https://github.com/Daron976/Daron976/blob/main/gitcover.jpg?raw=true"/>
 </div>
 
 ### <h1 align="center">A Little About Me </h1>
 <br>
 <br>
 <p align="center">
-Hello again, I'm Daron, a Full Stack Software Developer in training at Microverse, developing my skills while working with studentS from every corner of the globe. That is really amazing is if you ask me. Take a look at my pinned repositories to see what I've recently built.
+I am a Full-Stack developer and an automobile enthusiast who loves to write clean and concise code. I am also an aspiring Mechanical Engineer. In my free time, I enjoy learning about cars and their manufacturing process. It amazes me to see how mankind builds things of great significance.</br></br>
+I completed the full-stack development program at Microverse in a record 7 months with no missed deadlines or repeats. I am proficient in multiple languages, frameworks, and technologies, and I am capable of efficiently completing tasks with time to spare. I am also experienced in pair programming and remote work.
 </p>
 <p align="center">
 <em>Don't memorize something you can look up</em> 😄
