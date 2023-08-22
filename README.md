@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 <br>
 <br>
 <p align="center">
-I am a Full-Stack developer and an automobile enthusiast who loves to write clean and concise code. I am also an aspiring Mechanical Engineer. In my free time, I enjoy learning about cars and their manufacturing process. It amazes me to see how mankind builds things of great significance.</br></br>
+I am a Software developer and an automobile enthusiast who loves to write clean and concise code. I am also an aspiring Mechanical Engineer. In my free time, I enjoy learning about cars and their manufacturing process. It amazes me to see how mankind builds things of great significance.</br></br>
 I completed the full-stack development program at Microverse in a record 7 months with no missed deadlines or repeats. I am proficient in multiple languages, frameworks, and technologies, and I am capable of efficiently completing tasks with time to spare. I am also experienced in pair programming and remote work.
 </p>
 <p align="center">
