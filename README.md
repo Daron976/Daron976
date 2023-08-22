@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
-  <img src="https://github.com/Daron976/Daron976/blob/main/gitcover.jpg?raw=true"/>
+  <img src="https://github.com/Daron976/Daron976/blob/main/background.jpg?raw=true"/>
 </div>
 
 ### <h1 align="center">A Little About Me </h1>
@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <br>
 <p align="center">
 I am a Software developer and an automobile enthusiast who loves to write clean and concise code. I am also an aspiring Mechanical Engineer. In my free time, I enjoy learning about cars and their manufacturing process. It amazes me to see how mankind builds things of great significance.</br></br>
-I completed the full-stack development program at Microverse in a record 7 months with no missed deadlines or repeats. I am proficient in multiple languages, frameworks, and technologies, and I am capable of efficiently completing tasks with time to spare. I am also experienced in pair programming and remote work.
+I completed the software development program at Microverse in a record 7 months with no missed deadlines or repeats. I am proficient in multiple languages, frameworks, and technologies, and I am capable of efficiently completing tasks with time to spare. I am also experienced in pair programming and remote work.
 </p>
 <p align="center">
 <em>Don't memorize something you can look up</em> 😄
@@ -34,31 +34,27 @@ I completed the full-stack development program at Microverse in a record 7 month
   <tbody>
     <tr valign="center">
       <td width="120px" align="center">
-        <span><strong>Rails</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/rails.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>Ruby</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/ruby.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>React</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/react.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>Redux</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/redux.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>JavaScript</strong></span><br><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/j/33/javascript.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>Html 5</strong></span><br><br>
+        <img height="50px" src="https://www.cdnlogo.com/logos/t/96/typescript.svg">
+      </td>
+      <td width="120px" align="center">
         <img height="50px" src="https://cdn.svgporn.com/logos/html-5.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>CSS</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/css-3.svg">
       </td>
    </tr>
@@ -69,35 +65,27 @@ I completed the full-stack development program at Microverse in a record 7 month
    <tbody>
    <tr valign="center">
       <td width="120px" align="center">
-        <span><strong>PosgreSQL</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/postgresql.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>MySQL</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/mysql.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>Boostrap</strong></span><br><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/b/50/bootstrap.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>Sass</strong></span><br><br>
         <img height="50px" src="https://cdn.cdnlogo.com/logos/s/90/sass.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>Git</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/git-icon.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>Webpack</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/webpack.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>Jest</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/jest.svg">
       </td>
       <td width="120px" align="center">
-        <span><strong>React Testing Library</strong></span><br><br>
         <img height="50px" src="https://cdn.svgporn.com/logos/testing-library.svg">
       </td>
     </tr>
@@ -116,5 +104,3 @@ I completed the full-stack development program at Microverse in a record 7 month
     <img height="50px" src="https://cdn.svgporn.com/logos/twitter.svg" alt="Twitter logo"/>
   </a>
 </div>
-
-
